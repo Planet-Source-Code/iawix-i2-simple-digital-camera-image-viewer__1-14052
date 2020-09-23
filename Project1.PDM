@@ -1,0 +1,163 @@
+[Root]
+Most Recent Package=SKT2BMP Setup
+
+
+[Package|SKT2BMP Dependency File|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP\Dependency
+
+[Package|SKT2BMP Dependency File|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SKT2BMP Dependency File|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SKT2BMP Dependency File|Files Found]
+
+[Package|SKT2BMP Dependency File|Files Released]
+
+[Package|SKT2BMP Dependency File|Missing Dependency Information]
+
+[Package|SKT2BMP Dependency File|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|SKT2BMP Dependency File|Files Added]
+
+[Package|SKT2BMP Dependency File|Files Removed]
+
+[Package|SKT2BMP Dependency File|Files In Project]
+C:\Program Files\Visual Basic\Projects\SKT2BMP\SKT2BMP.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Visual Basic\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+
+[Package|SKT2BMP Dependency File|Configure Registry Files]
+Applicable=
+
+[Package|SKT2BMP Dependency File|Configure Remote Servers]
+Applicable=
+
+[Package|SKT2BMP Dependency File|Install Locations]
+C:\Program Files\Visual Basic\Projects\SKT2BMP\SKT2BMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Visual Basic\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+
+[Package|SKT2BMP Dependency File|Configure Shared Files]
+Applicable=
+
+[Package|SKT2BMP Dependency File|DepFile]
+DepCabFile=SKT2BMP.CAB
+DepCabRun=SKT2BMP.INF
+
+[Package|SKT2BMP Dependency File|Package]
+PackageFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP\Dependency
+ProjectFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP
+ServerSideCab=
+File1=C:\Program Files\Visual Basic\Projects\SKT2BMP\Dependency\SKT2BMP.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SKT2BMP Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP\Package
+
+[Package|SKT2BMP Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SKT2BMP Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SKT2BMP Setup|Files Found]
+
+[Package|SKT2BMP Setup|Files Released]
+
+[Package|SKT2BMP Setup|Missing Dependency Information]
+
+[Package|SKT2BMP Setup|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|SKT2BMP Setup|Files Added]
+
+[Package|SKT2BMP Setup|Files Removed]
+
+[Package|SKT2BMP Setup|Files In Project]
+C:\Program Files\Visual Basic\Projects\SKT2BMP\SKT2BMP.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Visual Basic\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\Program Files\Visual Basic\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Visual Basic\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Visual Basic\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|SKT2BMP Setup|Configure Registry Files]
+Applicable=No
+
+[Package|SKT2BMP Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|SKT2BMP Setup|Install Locations]
+C:\Program Files\Visual Basic\Projects\SKT2BMP\SKT2BMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Visual Basic\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Visual Basic\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Visual Basic\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Visual Basic\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|SKT2BMP Setup|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Visual Basic\Projects\SKT2BMP\SKT2BMP.exe=No
+
+[Package|SKT2BMP Setup|Distribution]
+Type=single
+Size=
+Title=SKT2BMP
+
+[Package|SKT2BMP Setup|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|SKT2BMP Setup|$(Programs)]
+Icon1=SKT2BMP.exe
+Title1=SKT2BMP
+StartIn1=$(AppPath)
+Key1=Icon5
+
+[Package|SKT2BMP Setup|Package]
+PackageFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP\Package
+ProjectFolder=C:\Program Files\Visual Basic\Projects\SKT2BMP
+ServerSideCab=
+File1=C:\Program Files\Visual Basic\Projects\SKT2BMP\Package\setup.exe
+File2=C:\Program Files\Visual Basic\Projects\SKT2BMP\Package\Setup.Lst
+File3=C:\Program Files\Visual Basic\Projects\SKT2BMP\Package\SKT2BMP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
